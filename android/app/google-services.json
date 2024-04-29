@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17885012571",
+    "project_id": "homeeasy-7cb28",
+    "storage_bucket": "homeeasy-7cb28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17885012571:android:91ad0e33d5927f880ed57e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYr38Qbr2G3DrfvsweL_995EhLZj7-Upk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
